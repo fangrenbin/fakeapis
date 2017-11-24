@@ -1,0 +1,50 @@
+{
+  "storeName": "AKM",
+  "orderNo": "888",
+  "totalQty": "3",
+  "orderDate": "2017-12-24",
+  "items": [
+    {
+      "image": "http://nexlogi.com/file/product/9421025564673_15090630465731952499689.jpg",
+      "productName": "Go billery 30,000mg 60 capsules",
+      "itemCode": "9400501004995",
+      "stock": 2,
+      "status": "close"
+    },
+    {
+      "image": "http://nexlogi.com/file/product/9421025565113_1510029073784346799954.jpg",
+      "productName": "Go billery 30,000mg 60 billery 30,000mg 60 ",
+      "itemCode": "9400501004995",
+      "stock": 2,
+      "status": "open"
+    },
+    {
+      "image": "http://nexlogi.com/file/product/9421025565113_1510029073784346799954.jpg",
+      "productName": "Go billery 30,000mg 60 capsules",
+      "itemCode": "9400501004995",
+      "stock": 3,
+      "status": "close"
+    },
+    {
+      "image": "http://nexlogi.com/file/product/9421025564673_15090630465731952499689.jpg",
+      "productName": "Go billery 30,000mg 60 capsules",
+      "itemCode": "9400501004995",
+      "stock": 2,
+      "status": "close"
+    },
+    {
+      "image": "http://nexlogi.com/file/product/9421025565113_1510029073784346799954.jpg",
+      "productName": "Go billery 30,000mg 60 capsules",
+      "itemCode": "9400501004995",
+      "stock": 2,
+      "status": "open"
+    },
+    {
+      "image": "http://nexlogi.com/file/product/9421025565113_1510029073784346799954.jpg",
+      "productName": "Go billery 30,000mg 60 capsules",
+      "itemCode": "9400501004995",
+      "stock": 3,
+      "status": "close"
+    }
+  ]
+}
